@@ -18,6 +18,11 @@ Usage
 $ cf tree <appname>
 ```
 
+Notice
+------
+
+* Too many call to files api endpoint
+
 Development
 -----------
 

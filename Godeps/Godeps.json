@@ -1,0 +1,21 @@
+{
+	"ImportPath": "github.com/morikat/cf-plugin-tree",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cloudfoundry/cli/cf/configuration",
+			"Comment": "v6.10.0-85-gefc770a",
+			"Rev": "efc770a3d2d14edf41dac20f3b2a5b14ddbb94c3"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/cli/cf/models",
+			"Comment": "v6.10.0-85-gefc770a",
+			"Rev": "efc770a3d2d14edf41dac20f3b2a5b14ddbb94c3"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/cli/plugin",
+			"Comment": "v6.10.0-85-gefc770a",
+			"Rev": "efc770a3d2d14edf41dac20f3b2a5b14ddbb94c3"
+		}
+	]
+}

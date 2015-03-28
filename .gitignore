@@ -1,2 +1,5 @@
 Godeps/Readme
 Godeps/_workspace
+out
+tmp
+.DS_Store

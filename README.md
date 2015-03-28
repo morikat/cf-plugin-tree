@@ -18,6 +18,33 @@ Usage
 $ cf tree <appname>
 ```
 
+output sample
+```
+$ cf tree cf-dora
+|--.bash_logout                                                                                                 [0/1905]
+|--.bashrc
+|--.profile
+|--app
+|  |--.buildpack-diagnostics
+|  |  |--buildpack.log
+|  |--.bundle
+|  |  |--config
+|  |  |--install.log
+|  |--.gitignore
+|  |--.java-buildpack.log
+|  |--.profile.d
+|  |  |--ruby.sh
+|  |--.rspec
+|  |--.ruby-version
+|  |--Gemfile
+|  |--Gemfile.lock
+|  |--README.md
+|  |--bin
+|  |  |--erb
+|  |  |--gem
+...
+
+```
 Notice
 ------
 

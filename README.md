@@ -49,6 +49,7 @@ Notice
 ------
 
 * Too many call to files api endpoint
+* The current version of the tree you can see only the first instance
 
 Development
 -----------

@@ -16,6 +16,20 @@
 			"ImportPath": "github.com/cloudfoundry/cli/plugin",
 			"Comment": "v6.10.0-85-gefc770a",
 			"Rev": "efc770a3d2d14edf41dac20f3b2a5b14ddbb94c3"
+		},
+		{
+			"ImportPath": "github.com/jtolds/gls",
+			"Rev": "f1ac7f4f24f50328e6bc838ca4437d1612a0243c"
+		},
+		{
+			"ImportPath": "github.com/smartystreets/assertions",
+			"Comment": "1.5.0-379-g75acd40",
+			"Rev": "75acd402ca38dc205641a826bb58b9de014926dd"
+		},
+		{
+			"ImportPath": "github.com/smartystreets/goconvey/convey",
+			"Comment": "1.5.0-382-gb25107b",
+			"Rev": "b25107bbf9a85361c2498d1fdc329d3b09cc9896"
 		}
 	]
 }
